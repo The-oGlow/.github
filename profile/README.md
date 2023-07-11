@@ -1,7 +1,4 @@
-- 👋 Hi, We’re @The-oGlow
-- 👀 We're interested in [topics](/the-oglow/topics) 
-<!---
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+# 👋 Hi
+We’re
+
+[![The oGlow Team](https://avatars.githubusercontent.com/t/6287527?s=240)<br/>The oGlow Team](https://github.com/The-oGlow)
